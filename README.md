@@ -4,7 +4,7 @@ Challenge ONE Encriptador de Texto Alura.
 Sprint 01: Construye un encriptador de texto con Javascript
 
 Ver el proyecto en online desde <a href="https://jpablo903.github.io/Challenge-ONE-Encriptador-de-Texto
-/">Visualiza mi repositorio</a>
+/">Visualiza mi repositorio</a><br><br>
 🚀 Comenzando
 Primer challenge de Oracle Next Education y Alura con JavaScript, HTML y CSS
 
